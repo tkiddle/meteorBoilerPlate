@@ -1,0 +1,13 @@
+/*Custom CSS*/
+
+/*Header*/
+#header .btn-group{margin-top:14px;}
+
+
+/*Quick login form*/
+#quick-login{padding:20px;}
+#quick-login .controls{margin-left:0;}
+
+
+/*Footer*/
+#footer{position:fixed; bottom:0;}
